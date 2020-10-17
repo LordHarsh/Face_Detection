@@ -48,11 +48,12 @@ You know, FaceNet is developed by Google.
 
 ### Possible Future
 * In some time I will add a better face recognition model.
+* Make model handel different lighting conditions.
 * Do web scrapping to save a database (image along with endodings) of a lot of of famous personalities (actors and actresses first).
 * If there is a suggesting tell me using issues.
 
 
-<a href="https://colab.research.google.com/github/LordHarsh/Face_Detection/blob/main/Face_Recognition_v3a.ipynb" target="_blank" rel="noopener noreferrer">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<a href="https://colab.research.google.com/github/LordHarsh/Face_Detection/blob/main/Face_Recognition_v3a.ipynb"  target="_blank" rel="noopener noreferrer">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" "ctrl + Enter"/>
 </a>
 
