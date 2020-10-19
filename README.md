@@ -44,6 +44,7 @@ You know, FaceNet is developed by Google.
 
 ### If the result is wrong
 * If the result is wrong then it's not anything wrong our code or your method.
+* Here, Face detection and cropping is working perfectly but the wrong result is due to Face Recognition.
 * It's because it machine learning model used here to recognize faces is a weekly trained. This is due to current lack of computing resourses and face data. This will be fixed in the future.
 
 ### Possible Future
