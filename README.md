@@ -1,4 +1,4 @@
-# Face_Detection
+# Face Detection and Recognition
 
 This is just for fun so do not start getting your hope ups, but its worth giving a try.
 
@@ -10,7 +10,7 @@ If have a prior experience with Jyputer Notebooks, go ahead see the code.
 
 
 ### Step by step
-If you are new to Jupyter Notebooks then open the notebook from the button given below and see this step by step guide-
+If you are new to Jupyter Notebooks then open the notebook from the button ```Open in Colab``` given below and see this step by step guide(if you want, skip the details given in notebook)-
 * When notebook opens, click on ```Runtime``` and select ```Run all```.
 >> Each box appearing in the workspace is known as a cell. This option will rull all cells one by one.
 
